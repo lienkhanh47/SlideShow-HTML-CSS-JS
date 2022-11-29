@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Slideshow</title>
-    <link rel="stylesheet" href="./assets/css/style.css">
+    
     <link rel="icon" href="https://www.pngkey.com/png/detail/477-4776842_report-abuse-hoa-sen-mu-nc.png?fbclid=IwAR1vAuz-GAiWSv14OP13amVXv1EsZS8yg9cAjoIBxlj3TT9KE8HPVRFcwjM" type="image/x-icon" />
     <link href='https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css' rel='stylesheet'>
 </head>
@@ -124,7 +124,7 @@ img {
     </div>
 
 </body>
-<script src="app.js"></script>
+
   <script>
     var imgFeature = document.querySelector('.img-feature')
 var listImg = document.querySelectorAll('.list-image img')
